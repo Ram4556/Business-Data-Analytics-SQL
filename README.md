@@ -12,8 +12,8 @@
 - [Functions](#functions)
 - [Stored Procedures](#stored-procedures)
 - [SQL Analysis](#sql-analysis)
-- [Project Highlights](#project-highlights)
 - [Dataset & GitHub Data](#dataset--github-data)
+- [Project Highlights](#project-highlights)
 
 ## Objectives
 
@@ -200,46 +200,6 @@ Business Analysis / Reporting
 Power BI / Tableau / Other BI Tools
 ```
 
-### 1. `get_forecast_accuracy`
-
-**SQL File:** [View SQL Procedure](04_Stored_Procedures/get_forecast_accuracy.sql)
-
----
-
-### 2. `market_badge`
-
-**SQL File:** [View SQL Procedure](04_Stored_Procedures/get_market_badge.sql)
-
----
-
-### 3. `monthly_customer_sales`
-
-**SQL File:** [View SQL Procedure](04_Stored_Procedures/get_monthly_customer_sales.sql)
-
----
-
-### 4. `top_n_products_division_qty_sold`
-
-**SQL File:** [View SQL Procedure](04_Stored_Procedures/get_top_n_products_division_qty_sold.sql)
-
----
-
-### 5. `top_n_sales_customers`
-
-**SQL File:** [View SQL Procedure](04_Stored_Procedures/get_top_n_sales_customers.sql)
-
----
-
-### 6. `top_n_sales_market`
-
-**SQL File:** [View SQL Procedure](04_Stored_Procedures/get_top_n_sales_market.sql)
-
----
-
-### 7. `top_n_sales_product`
-
-**SQL File:** [View SQL Procedure](04_Stored_Procedures/get_top_n_sales_product.sql)
-
 ## Stored Procedures Summary
 
 | Business Area | Stored Procedure | Input | Analysis Level | SQL |
@@ -252,9 +212,9 @@ Power BI / Tableau / Other BI Tools
 | Market | `top_n_sales_market` | Fiscal Year, Top N | Market | [View SQL](04_Stored_Procedures/get_top_n_sales_market.sql) |
 | Product | `top_n_sales_product` | Fiscal Year, Top N | Product | [View SQL](04_Stored_Procedures/get_top_n_sales_product.sql) |
 
-## SQL Analysis
+# SQL Analysis
 
-# Croma Sales Analysis – FY2021
+## Croma Sales Analysis – FY2021
 
 ## Business Question
 
@@ -268,7 +228,7 @@ The query combines monthly sales, product details, and fiscal-year-based gross p
 
 `Sold Quantity × Gross Price = Gross Sales`
 
-# Customer Net Sales Contribution – FY2021
+## Customer Net Sales Contribution – FY2021
 
 ## Business Question
 
@@ -311,7 +271,7 @@ The analysis shows how total sales are distributed across the customer base.
 - [SQL Query](customer_share_pct.sql)
 - [Query Output](output_customer_share_pct.csv)
 
-# Customer Regional Sales Contribution – FY2021
+## Customer Regional Sales Contribution – FY2021
 
 ## Business Question
 
@@ -347,7 +307,7 @@ The analysis helps compare customer contribution across regions and identify cus
 - [SQL Query](market_region_share_pct.sql)
 - [Query Output](output_market_region_share_pct.csv)
 
-# Top 3 Products by Division – FY2021
+## Top 3 Products by Division – FY2021
 
 ## Business Question
 
@@ -387,7 +347,7 @@ The analysis helps compare product performance within individual divisions rathe
 - [SQL Query](top_3_products_by_division_2021.sql)
 - [Query Output](output_top_3_products_by_division_2021.csv)
 
-# Forecast Error Analysis – FY2021
+## Forecast Error Analysis – FY2021
 
 ## Business Question
 
@@ -431,7 +391,7 @@ This helps identify where forecasts were above or below actual sales and measure
 - [SQL Query](forecast_accuracy_2021.sql)
 - [Query Output](output_forecast_accuracy_2021.csv)
 
-# Forecast Accuracy Comparison – FY2020 vs FY2021
+## Forecast Accuracy Comparison – FY2020 vs FY2021
 
 ## Business Question
 
@@ -520,7 +480,7 @@ The analysis provides a detailed customer-level comparison of forecast performan
 - [SQL Query](forecast_accuracy_comparison_2020_2021.sql)
 - [Query Output](output_forecast_accuracy_comparison_2020_2021.csv)
 
-# Sales vs Forecast Data Reconciliation
+## Sales vs Forecast Data Reconciliation
 
 ## Business Question
 
@@ -557,7 +517,7 @@ This provides a combined view of sales and forecast data without losing unmatche
 - [SQL Query](sales_forecast_full_outer_join.sql)
 - [Query Output](output_sales_forecast_full_outer_join.csv)
 
-# Sales Analysis Using Lookup Tables
+## Sales Analysis Using Lookup Tables
 
 ## Business Question
 
@@ -603,7 +563,7 @@ The analysis demonstrates how a date lookup table can provide fiscal-year inform
 - [SQL Query](01_performance_optimization_using_look_up_tables.sql)
 - [Query Output](output_performance_optimization_using_look_up_tables.csv)
 
-# Sales Analysis Using Precomputed Fiscal Year
+## Sales Analysis Using Precomputed Fiscal Year
 
 ## Business Question
 
@@ -669,50 +629,6 @@ The analysis can be used to compare product-level sales performance for the cust
 - [SQL Query](croma_2021_sales.sql)
 - [Query Output](output_croma_sales.csv)
 
-
-## SQL Concepts Demonstrated
-
-- SELECT, WHERE, GROUP BY, HAVING, ORDER BY
-- INNER JOIN and LEFT JOIN
-- UNION and UNION ALL
-- Common Table Expressions (CTEs)
-- Window Functions
-- Aggregate Functions
-- CASE Statements
-- Subqueries
-- MySQL Views
-- User-Defined Functions
-- Stored Procedures
-- Input and Output Parameters
-- Temporary and derived tables
-- Fiscal year and fiscal quarter calculations
-- Query optimization
-
-# Project Screenshots
-
-## Database Structure
-
-### gdb041 Database Structure
-
-![gdb041 Database Structure](database_structure/gdb041_database_structure.png)
-
-## SQL Functions
-
-### Fiscal Quarter Function
-
-![Fiscal Quarter Function](functions/get_fiscal_quarter.png)
-
-## SQL Views
-
-### Sales Pre-Invoice Discount View
-
-![Sales Pre-Invoice Discount View](views/view_sales_pre_invoice_discount.png)
-
-## Stored Procedures
-
-### Forecast Accuracy
-
-![Forecast Accuracy](stored_procedures/forecast_accuracy.png)
 
 
 ## Dataset & GitHub Data
