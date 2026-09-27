@@ -1,0 +1,17 @@
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# MySQL local files
+*.ibd
+*.frm
+*.MYD
+*.MYI
+
+# Temporary files
+*.tmp
+*.log

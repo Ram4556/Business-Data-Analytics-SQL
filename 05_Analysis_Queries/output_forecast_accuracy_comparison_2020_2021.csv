@@ -1,0 +1,61 @@
+customer_code,customer,market,forecast_accuracy_2020,forecast_accuracy_2021
+90020101,Euronics,Austria,56.4723,41.4477
+90020100,Nova,Austria,56.2667,42.6923
+90020099,"Integration Stores",Austria,55.9608,43.5356
+90020097,"Atlas Stores",Austria,55.6515,44.5628
+90025209,"Electricalsbea Stores",Columbia,54.3478,47.8157
+90020102,Fnac-Darty,Austria,53.0007,44.0172
+90020098,"Electricalsquipo Stores",Austria,52.6502,44.3257
+90019200,Sorefoz,Sweden,47.4301,26.5831
+90019201,Expert,Sweden,45.7242,23.1684
+90019202,"Argos (Sainsbury's)",Sweden,45.2390,18.8605
+70020104,"Atliq e Store",Austria,43.1896,42.5555
+90010046,"Amazon ",Bangladesh,42.9251,42.7956
+70006158,"Atliq e Store",Philiphines,42.7382,24.5275
+70008170,"Atliq e Store",Australia,41.0030,38.7516
+90004062,"Flawless Stores",Japan,40.8012,33.2068
+90005161,Zone,Pakistan,40.7586,37.2083
+90019203,"Amazon ",Sweden,40.6683,18.9140
+70004069,"AltiQ Exclusive",Japan,40.6219,32.7694
+90014140,"Radio Popular",Netherlands,39.9576,0.0000
+90014137,"Media Markt",Netherlands,39.2892,0.0000
+90014138,Mbit,Netherlands,39.2224,0.0000
+90014136,"Reliance Digital",Netherlands,39.0840,0.3902
+70014143,"Atliq e Store",Netherlands,39.0806,0.0000
+90004066,"Surface Stores",Japan,39.0123,34.1025
+90004065,Neptune,Japan,38.9632,31.0223
+90008166,Sound,Australia,38.7853,36.8006
+70014142,"AltiQ Exclusive",Netherlands,38.6978,0.0000
+90004064,All-Out,Japan,38.2972,29.6710
+90014141,"Amazon ",Netherlands,38.2494,0.0000
+90016173,Expert,Poland,38.1586,35.7212
+90004061,"Info Stores",Japan,38.1470,31.5244
+90005160,"Nomad Stores",Pakistan,37.9984,37.3812
+70016177,"AltiQ Exclusive",Poland,37.8541,35.3652
+90006153,Insight,Philiphines,37.6141,26.9086
+80006154,Synthetic,Philiphines,37.5155,24.6261
+90008164,Digimarket,Australia,37.5072,36.0241
+90006156,"Amazon ",Philiphines,37.3793,27.9581
+90004063,"Electricalsbea Stores",Japan,37.1444,30.7015
+80006155,Novus,Philiphines,36.6605,25.2821
+90016172,Power,Poland,36.5551,35.2724
+90014139,Elkjøp,Netherlands,36.4762,0.0000
+70006157,"AltiQ Exclusive",Philiphines,36.3973,25.2314
+90014135,"Electricalslance Stores",Netherlands,36.3403,0.0000
+90016175,"Argos (Sainsbury's)",Poland,36.2162,33.9481
+70019204,"Atliq e Store",Sweden,35.4823,23.6572
+90016174,"Currys (Dixons Carphone)",Poland,34.8956,33.4930
+70007198,"AltiQ Exclusive","South Korea",33.4652,17.3360
+70004070,"Atliq e Store",Japan,32.6067,29.7283
+90004067,Amazon,Japan,32.2317,30.7578
+80007196,Leader,"South Korea",30.4297,18.1907
+80007195,Sage,"South Korea",30.1301,19.4357
+90012034,Otto,Germany,29.3386,18.5057
+90012036,Billa,Germany,27.3239,18.4124
+90012037,Saturn,Germany,26.4455,19.2864
+90012038,Expert,Germany,25.5988,24.8061
+70012042,"AltiQ Exclusive",Germany,25.4170,22.9839
+90012040,Fnac-Darty,Germany,24.5975,21.9564
+90012033,Digimarket,Germany,24.2221,22.6092
+90012039,"Currys (Dixons Carphone)",Germany,22.6506,22.2992
+90012035,Notebillig,Germany,21.5554,18.9908

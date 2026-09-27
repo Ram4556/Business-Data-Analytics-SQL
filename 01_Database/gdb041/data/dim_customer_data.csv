@@ -1,0 +1,210 @@
+customer,market,platform,channel,customer_code
+"AltiQ Exclusive",India,"Brick & Mortar",Direct,70002017
+"Atliq e Store",India,E-Commerce,Direct,70002018
+"AltiQ Exclusive",Indonesia,"Brick & Mortar",Direct,70003181
+"Atliq e Store",Indonesia,E-Commerce,Direct,70003182
+"AltiQ Exclusive",Japan,"Brick & Mortar",Direct,70004069
+"Atliq e Store",Japan,E-Commerce,Direct,70004070
+"Atliq e Store",Pakistan,E-Commerce,Direct,70005163
+"AltiQ Exclusive",Philiphines,"Brick & Mortar",Direct,70006157
+"Atliq e Store",Philiphines,E-Commerce,Direct,70006158
+"AltiQ Exclusive","South Korea","Brick & Mortar",Direct,70007198
+"Atliq e Store","South Korea",E-Commerce,Direct,70007199
+"AltiQ Exclusive",Australia,"Brick & Mortar",Direct,70008169
+"Atliq e Store",Australia,E-Commerce,Direct,70008170
+"AltiQ Exclusive",Newzealand,"Brick & Mortar",Direct,70009133
+"Atliq e Store",Newzealand,E-Commerce,Direct,70009134
+"AltiQ Exclusive",Bangladesh,"Brick & Mortar",Direct,70010047
+"Atliq e Store",Bangladesh,E-Commerce,Direct,70010048
+"AltiQ Exclusive",France,"Brick & Mortar",Direct,70011193
+"Atliq e Store",France,E-Commerce,Direct,70011194
+"AltiQ Exclusive",Germany,"Brick & Mortar",Direct,70012042
+"Atliq e Store",Germany,E-Commerce,Direct,70012043
+"AltiQ Exclusive",Italy,"Brick & Mortar",Direct,70013125
+"Atliq e Store",Italy,E-Commerce,Direct,70013126
+"AltiQ Exclusive",Netherlands,"Brick & Mortar",Direct,70014142
+"Atliq e Store",Netherlands,E-Commerce,Direct,70014143
+"AltiQ Exclusive",Norway,"Brick & Mortar",Direct,70015151
+"Atliq e Store",Norway,E-Commerce,Direct,70015152
+"AltiQ Exclusive",Poland,"Brick & Mortar",Direct,70016177
+"Atliq e Store",Poland,E-Commerce,Direct,70016178
+"Atliq e Store",Portugal,E-Commerce,Direct,70017060
+"Atliq e Store",Spain,E-Commerce,Direct,70018115
+"Atliq e Store",Sweden,E-Commerce,Direct,70019204
+"Atliq e Store",Austria,E-Commerce,Direct,70020104
+"Atliq e Store","United Kingdom",E-Commerce,Direct,70021096
+"AltiQ Exclusive",USA,"Brick & Mortar",Direct,70022084
+"Atliq e Store",USA,E-Commerce,Direct,70022085
+"AltiQ Exclusive",Canada,"Brick & Mortar",Direct,70023031
+"Atliq e Store",Canada,E-Commerce,Direct,70023032
+"Atliq e Store",Mexico,E-Commerce,Direct,70026206
+"Atliq e Store",Brazil,E-Commerce,Direct,70027208
+Neptune,China,"Brick & Mortar",Distributor,80001019
+Synthetic,Philiphines,"Brick & Mortar",Distributor,80006154
+Novus,Philiphines,"Brick & Mortar",Distributor,80006155
+Sage,"South Korea","Brick & Mortar",Distributor,80007195
+Leader,"South Korea","Brick & Mortar",Distributor,80007196
+Zone,China,"Brick & Mortar",Retailer,90001020
+Taobao,China,E-Commerce,Retailer,90001021
+"Reliance Digital",India,"Brick & Mortar",Retailer,90002001
+Croma,India,"Brick & Mortar",Retailer,90002002
+Ezone,India,"Brick & Mortar",Retailer,90002003
+"Vijay Sales",India,"Brick & Mortar",Retailer,90002004
+Lotus,India,"Brick & Mortar",Retailer,90002005
+Viveks,India,"Brick & Mortar",Retailer,90002006
+Girias,India,"Brick & Mortar",Retailer,90002007
+Amazon,India,E-Commerce,Retailer,90002008
+Flipkart,India,E-Commerce,Retailer,90002009
+Ebay,India,E-Commerce,Retailer,90002010
+"Atliq Exclusive",India,"Brick & Mortar",Retailer,90002011
+Electricalsocity,India,"Brick & Mortar",Retailer,90002012
+Electricalslytical,India,"Brick & Mortar",Retailer,90002013
+Expression,India,"Brick & Mortar",Retailer,90002014
+Propel,India,"Brick & Mortar",Retailer,90002015
+"Amazon ",India,E-Commerce,Retailer,90002016
+"Acclaimed Stores",Indonesia,"Brick & Mortar",Retailer,90003179
+"Amazon ",Indonesia,E-Commerce,Retailer,90003180
+"Info Stores",Japan,"Brick & Mortar",Retailer,90004061
+"Flawless Stores",Japan,"Brick & Mortar",Retailer,90004062
+"Electricalsbea Stores",Japan,"Brick & Mortar",Retailer,90004063
+All-Out,Japan,"Brick & Mortar",Retailer,90004064
+Neptune,Japan,"Brick & Mortar",Retailer,90004065
+"Surface Stores",Japan,"Brick & Mortar",Retailer,90004066
+Amazon,Japan,E-Commerce,Retailer,90004067
+"Amazon ",Japan,E-Commerce,Retailer,90004068
+Expression,Pakistan,"Brick & Mortar",Retailer,90005159
+"Nomad Stores",Pakistan,"Brick & Mortar",Retailer,90005160
+Zone,Pakistan,"Brick & Mortar",Retailer,90005161
+"Amazon ",Pakistan,E-Commerce,Retailer,90005162
+Insight,Philiphines,"Brick & Mortar",Retailer,90006153
+"Amazon ",Philiphines,E-Commerce,Retailer,90006156
+"Amazon ","South Korea",E-Commerce,Retailer,90007197
+Digimarket,Australia,"Brick & Mortar",Retailer,90008164
+"Forward Stores",Australia,"Brick & Mortar",Retailer,90008165
+Sound,Australia,"Brick & Mortar",Retailer,90008166
+Electricalsocity,Australia,"Brick & Mortar",Retailer,90008167
+"Amazon ",Australia,E-Commerce,Retailer,90008168
+"Epic Stores",Newzealand,"Brick & Mortar",Retailer,90009127
+Propel,Newzealand,"Brick & Mortar",Retailer,90009128
+Leader,Newzealand,"Brick & Mortar",Retailer,90009129
+"Logic Stores",Newzealand,"Brick & Mortar",Retailer,90009130
+Path,Newzealand,"Brick & Mortar",Retailer,90009131
+"Amazon ",Newzealand,E-Commerce,Retailer,90009132
+"Surface Stores",Bangladesh,"Brick & Mortar",Retailer,90010044
+Control,Bangladesh,"Brick & Mortar",Retailer,90010045
+"Amazon ",Bangladesh,E-Commerce,Retailer,90010046
+"Epic Stores",France,"Brick & Mortar",Retailer,90011185
+Elite,France,"Brick & Mortar",Retailer,90011186
+"Chip 7",France,"Brick & Mortar",Retailer,90011187
+Elkjøp,France,"Brick & Mortar",Retailer,90011188
+UniEuro,France,"Brick & Mortar",Retailer,90011189
+"Media Markt",France,"Brick & Mortar",Retailer,90011190
+Sorefoz,France,"Brick & Mortar",Retailer,90011191
+"Amazon ",France,E-Commerce,Retailer,90011192
+Digimarket,Germany,"Brick & Mortar",Retailer,90012033
+Otto,Germany,"Brick & Mortar",Retailer,90012034
+Notebillig,Germany,"Brick & Mortar",Retailer,90012035
+Billa,Germany,"Brick & Mortar",Retailer,90012036
+Saturn,Germany,"Brick & Mortar",Retailer,90012037
+Expert,Germany,"Brick & Mortar",Retailer,90012038
+"Currys (Dixons Carphone)",Germany,"Brick & Mortar",Retailer,90012039
+Fnac-Darty,Germany,"Brick & Mortar",Retailer,90012040
+"Amazon ",Germany,E-Commerce,Retailer,90012041
+"Unity Stores",Italy,"Brick & Mortar",Retailer,90013116
+Euronics,Italy,"Brick & Mortar",Retailer,90013117
+Fnac-Darty,Italy,"Brick & Mortar",Retailer,90013118
+"Argos (Sainsbury's)",Italy,"Brick & Mortar",Retailer,90013119
+Coolblue,Italy,"Brick & Mortar",Retailer,90013120
+Boulanger,Italy,"Brick & Mortar",Retailer,90013121
+"Radio Popular",Italy,"Brick & Mortar",Retailer,90013122
+Expert,Italy,"Brick & Mortar",Retailer,90013123
+"Amazon ",Italy,E-Commerce,Retailer,90013124
+"Electricalslance Stores",Netherlands,"Brick & Mortar",Retailer,90014135
+"Reliance Digital",Netherlands,"Brick & Mortar",Retailer,90014136
+"Media Markt",Netherlands,"Brick & Mortar",Retailer,90014137
+Mbit,Netherlands,"Brick & Mortar",Retailer,90014138
+Elkjøp,Netherlands,"Brick & Mortar",Retailer,90014139
+"Radio Popular",Netherlands,"Brick & Mortar",Retailer,90014140
+"Amazon ",Netherlands,E-Commerce,Retailer,90014141
+Sound,Norway,"Brick & Mortar",Retailer,90015144
+Synthetic,Norway,"Brick & Mortar",Retailer,90015145
+Mbit,Norway,"Brick & Mortar",Retailer,90015146
+Chiptec,Norway,"Brick & Mortar",Retailer,90015147
+Boulanger,Norway,"Brick & Mortar",Retailer,90015148
+UniEuro,Norway,"Brick & Mortar",Retailer,90015149
+"Amazon ",Norway,E-Commerce,Retailer,90015150
+"Electricalsara Stores",Poland,"Brick & Mortar",Retailer,90016171
+Power,Poland,"Brick & Mortar",Retailer,90016172
+Expert,Poland,"Brick & Mortar",Retailer,90016173
+"Currys (Dixons Carphone)",Poland,"Brick & Mortar",Retailer,90016174
+"Argos (Sainsbury's)",Poland,"Brick & Mortar",Retailer,90016175
+"Amazon ",Poland,E-Commerce,Retailer,90016176
+"Premium Stores",Portugal,"Brick & Mortar",Retailer,90017049
+"Electricalsara Stores",Portugal,"Brick & Mortar",Retailer,90017050
+"Forward Stores",Portugal,"Brick & Mortar",Retailer,90017051
+Power,Portugal,"Brick & Mortar",Retailer,90017052
+"Info Stores",Portugal,"Brick & Mortar",Retailer,90017053
+"Flawless Stores",Portugal,"Brick & Mortar",Retailer,90017054
+"Electricalslance Stores",Portugal,"Brick & Mortar",Retailer,90017055
+Sorefoz,Portugal,"Brick & Mortar",Retailer,90017056
+Euronics,Portugal,"Brick & Mortar",Retailer,90017057
+Mbit,Portugal,"Brick & Mortar",Retailer,90017058
+"Amazon ",Portugal,E-Commerce,Retailer,90017059
+"Integration Stores",Spain,"Brick & Mortar",Retailer,90018105
+Flipkart,Spain,E-Commerce,Retailer,90018106
+Elite,Spain,"Brick & Mortar",Retailer,90018107
+Relief,Spain,"Brick & Mortar",Retailer,90018108
+Chiptec,Spain,"Brick & Mortar",Retailer,90018109
+Boulanger,Spain,"Brick & Mortar",Retailer,90018110
+"Media Markt",Spain,"Brick & Mortar",Retailer,90018111
+Euronics,Spain,"Brick & Mortar",Retailer,90018112
+Elkjøp,Spain,"Brick & Mortar",Retailer,90018113
+"Amazon ",Spain,E-Commerce,Retailer,90018114
+Sorefoz,Sweden,"Brick & Mortar",Retailer,90019200
+Expert,Sweden,"Brick & Mortar",Retailer,90019201
+"Argos (Sainsbury's)",Sweden,"Brick & Mortar",Retailer,90019202
+"Amazon ",Sweden,E-Commerce,Retailer,90019203
+"Atlas Stores",Austria,"Brick & Mortar",Retailer,90020097
+"Electricalsquipo Stores",Austria,"Brick & Mortar",Retailer,90020098
+"Integration Stores",Austria,"Brick & Mortar",Retailer,90020099
+Nova,Austria,"Brick & Mortar",Retailer,90020100
+Euronics,Austria,"Brick & Mortar",Retailer,90020101
+Fnac-Darty,Austria,"Brick & Mortar",Retailer,90020102
+"Amazon ",Austria,E-Commerce,Retailer,90020103
+"Electricalsquipo Stores","United Kingdom","Brick & Mortar",Retailer,90021086
+"Logic Stores","United Kingdom","Brick & Mortar",Retailer,90021087
+Electricalslytical,"United Kingdom","Brick & Mortar",Retailer,90021088
+"Atlas Stores","United Kingdom","Brick & Mortar",Retailer,90021089
+"Radio Popular","United Kingdom","Brick & Mortar",Retailer,90021090
+Expert,"United Kingdom","Brick & Mortar",Retailer,90021091
+UniEuro,"United Kingdom","Brick & Mortar",Retailer,90021092
+"Chip 7","United Kingdom","Brick & Mortar",Retailer,90021093
+Coolblue,"United Kingdom","Brick & Mortar",Retailer,90021094
+"Amazon ","United Kingdom",E-Commerce,Retailer,90021095
+"Acclaimed Stores",USA,"Brick & Mortar",Retailer,90022071
+Path,USA,"Brick & Mortar",Retailer,90022072
+Control,USA,"Brick & Mortar",Retailer,90022073
+Flipkart,USA,E-Commerce,Retailer,90022074
+BestBuy,USA,"Brick & Mortar",Retailer,90022075
+"Circuit City",USA,"Brick & Mortar",Retailer,90022076
+"Radio Shack",USA,"Brick & Mortar",Retailer,90022077
+Costco,USA,"Brick & Mortar",Retailer,90022078
+walmart,USA,"Brick & Mortar",Retailer,90022079
+Staples,USA,"Brick & Mortar",Retailer,90022080
+Amazon,USA,E-Commerce,Retailer,90022081
+"Amazon ",USA,E-Commerce,Retailer,90022082
+Ebay,USA,E-Commerce,Retailer,90022083
+"Nomad Stores",Canada,"Brick & Mortar",Retailer,90023022
+Amazon,Canada,E-Commerce,Retailer,90023023
+Sage,Canada,"Brick & Mortar",Retailer,90023024
+"Premium Stores",Canada,"Brick & Mortar",Retailer,90023025
+Relief,Canada,"Brick & Mortar",Retailer,90023026
+Costco,Canada,"Brick & Mortar",Retailer,90023027
+walmart,Canada,"Brick & Mortar",Retailer,90023028
+Staples,Canada,"Brick & Mortar",Retailer,90023029
+"Amazon ",Canada,E-Commerce,Retailer,90023030
+"Electricalsbea Stores",Chile,"Brick & Mortar",Retailer,90024183
+"Amazon ",Chile,E-Commerce,Retailer,90024184
+"Electricalsbea Stores",Columbia,"Brick & Mortar",Retailer,90025209
+"Amazon ",Mexico,E-Commerce,Retailer,90026205
+"Amazon ",Brazil,E-Commerce,Retailer,90027207

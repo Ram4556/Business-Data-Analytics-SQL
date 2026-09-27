@@ -1,0 +1,15 @@
+
+DELIMITER $$
+
+CREATE FUNCTION get_fiscal_year(calendar_date DATE)
+RETURNS INT
+DETERMINISTIC
+BEGIN
+
+    RETURN YEAR(
+        DATE_ADD(calendar_date, INTERVAL 4 MONTH)
+    );
+
+END$$
+
+DELIMITER ;
